@@ -179,15 +179,6 @@ a:hover {
     box-shadow: 0 5px 15px rgba(216, 30, 5, 0.3);
 }
 
-footer {
-    text-align: center;
-    padding: 30px 0;
-    background-color: rgba(0, 0, 0, 0.3);
-    margin-top: 50px;
-    font-size: 0.9rem;
-    color: var(--text-dim);
-}
-
 @media (max-width: 768px) {
     h1 {
         font-size: 2rem;
